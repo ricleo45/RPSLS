@@ -1,4 +1,3 @@
-import contextlib
 from player import Player
 
 class Human(Player):
